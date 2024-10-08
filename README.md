@@ -3,7 +3,7 @@
 1. Clone this repository
 In your terminal, run the following command:
 ```bash
-git clone link
+git clone https://github.com/Guido-Biotti/Stay-U-nique-Test.git
 ```
 2. Install the virtual environment
 ```bash
