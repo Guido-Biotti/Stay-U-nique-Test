@@ -26,4 +26,4 @@ venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Run the project using the run button on the top right of the screen
+4. Run the project using the run button on the top right of the screen or run each cell indiviaduly.
