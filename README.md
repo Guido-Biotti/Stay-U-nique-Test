@@ -22,8 +22,11 @@ source venv/bin/activate
 # If you are using Windows Command Prompt or PowerShell
 venv/Scripts/activate
 ```
-4. Install the requirements
+5. Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
-4. Run the project using the run button on the top right of the screen or run each cell indiviaduly.
+6. Run the project using the run button on the left of each cell indiviaduly.
+- First run the Scraping.ipynb file to get the data from the website.
+- Then run the ETL.ipynb file to clean the data and create the database.
+- Finally run the EDA.ipynb file to get the insights from the data.
